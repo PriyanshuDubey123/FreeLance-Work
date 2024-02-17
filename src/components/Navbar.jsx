@@ -77,7 +77,7 @@ function Navbar() {
         </div>
 
         <div
-          className={`top-20 left-0 w-[100vw] h-[100vh] mt-1  items-center bg-[#142941] text-white fixed  z-[999]  ease-in-out duration-300 ${
+          className={`top-[4.4rem] left-0 w-[100vw] h-[100vh] mt-1  items-center bg-[#142941] text-white fixed  z-[999]  ease-in-out duration-300 ${
             isOpen ? "translate-x-0 " : "-translate-x-full"
           }`}
         >

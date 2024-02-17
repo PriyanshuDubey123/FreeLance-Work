@@ -4,6 +4,10 @@ import HeroSection from "./HeroSection";
 import Achievements from "./Achievements";
 import Categories from "./Categories";
 import PopularTutors from "./PopularTutors";
+import WorkingProcess from "./WorkingProcess";
+import QuestionSection from "./QuestionSection";
+import ClientReview from "./ClientReview";
+import Footer from "./Footer";
 
 function Home() {
   return (
@@ -17,6 +21,10 @@ function Home() {
         <Achievements className ="relative z-[99999999] " />
         <Categories />
         <PopularTutors/>
+        <WorkingProcess/>
+        <QuestionSection/>
+        <ClientReview/>
+        <Footer/>
     </div>
   );
 }

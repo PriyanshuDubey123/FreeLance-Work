@@ -22,7 +22,7 @@ function HeroSection() {
 <img className=' max-w-[10rem]'  src="./images/Group (4).png" alt="" />
 </div>
 
-<div className=' max-[532px]:hidden md:hidden lg:hidden absolute top-[30rem] first flex justify-around w-[60%] right-5 '>
+<div className='  max-[532px]:hidden md:hidden lg:hidden absolute top-[30rem] first flex justify-around w-[60%] right-5 '>
   <div >
 <img width="100" src="./images/Frame.png" alt="" />
   </div>
@@ -45,7 +45,7 @@ function HeroSection() {
   </div>
   </div>
 
-  <div className=' max-[924px]:bg-contain  bg-ellipse bg-cover bg-no-repeat  backdrop-brightness-1 rounded-full  filter second text-2xl md:text-4xl lg:text-4xl font-Koho w-full md:w-[40%] lg:w-[40%] text-center tracking-tight font-bold  h-[30vh] flex justify-center items-center '>
+  <div className='   bg-ellipse bg-contain  bg-no-repeat rounded-full backdrop:brightness-50 second text-2xl md:text-4xl lg:text-4xl font-Koho w-full md:w-[40%] lg:w-[40%] text-center tracking-tight font-bold   h-[30vh] flex justify-center items-center '>
    <p>Learn with us anywhere with <br/>the best <span  className=' relative text-yellow-300'>experts
    <img width="100" className=' absolute -bottom-[0.2rem]  right-1  ' src="./images/Vector 21.png" alt="" />
    </span> 
@@ -60,8 +60,8 @@ function HeroSection() {
   </div>
   </div>
 
-  <div className=' fourth flex  justify-between w-[46%]'>
-    <div className=' h-52  flex items-center'>
+  <div className=' fourth flex  justify-between w-[46%] '>
+    <div className=' h-52  flex items-center '>
         
 <img className=' w-8 h-8' src="./images/Group (5).png" alt="" />
     </div>

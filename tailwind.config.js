@@ -15,6 +15,7 @@ module.exports = {
       'group1': "url('../public/images/Group (2).png')",
       'ellipse': "url('../public/images/Ellipse 24 (1).png')",
       'texture': "url('../public/images/texture.png')",
+      'texture2': "url('../public/images/9406224_26669 5 (1).png')",
     },
     },
   },

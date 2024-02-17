@@ -2,7 +2,7 @@ import React from 'react'
 
 function Achievements() {
   return (
-    <div className='  max-[806px]:items-center overflow-hidden max-[806px]:flex max-[806px]:flex-col  max-[806px]:h-auto h-32 max-[806px]:gap-4  relative grid grid-cols-6 w-[100vw] mt-[38rem] max-[949px]:mt-[52rem]  max-[767px]:mt-[52rem] max-[532px]:mt-[28rem] text-[#D9ECFF] '>
+    <div className='  max-[806px]:items-center overflow-hidden max-[806px]:flex max-[806px]:flex-col  max-[806px]:h-auto h-32 max-[806px]:gap-4  relative grid grid-cols-6 w-[100vw] mt-[38rem] max-[949px]:mt-[52rem]  max-[767px]:mt-[52rem] max-[532px]:mt-[79vh] text-[#D9ECFF]  '>
         <div className=' col-span-1 flex flex-col items-end max-[806px]:w-1/2'>
         <div className='max-[806px]:h-auto h-[70%] bg-[#354C66] w-full flex flex-col text-center justify-center items-center'>
            <h1 className=' font-bold  text-white text-2xl'>60K+</h1>
